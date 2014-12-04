@@ -156,3 +156,6 @@ ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=1
 endif
 
 $(call inherit-product-if-exists, vendor/extra/product.mk)
+
+# Squisher Location
+SQUISHER_SCRIPT := vendor/zos/tools/squisher
