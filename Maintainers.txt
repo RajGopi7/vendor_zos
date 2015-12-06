@@ -1,0 +1,43 @@
+=============================
+ZephyrOS Official Maintainers
+=============================
+
+===================================================
+This is the list of people who bring awesomeness of
+Zephyr to your respective devices.
+===================================================
+
+========
+MOTOROLA
+========
+Moto E (condor): StarkDroid/Vatsal Koradia
+
+=====
+NEXUS
+=====
+
+=======
+ONEPLUS
+=======
+
+
+==
+LG
+==
+
+
+=======
+SAMSUNG
+=======
+
+
+======
+XIAOMI
+======
+Mi5 (gemini): StarkDroid
+
+==
+YU
+==
+Yunique (jalebi): Sai Charan
+

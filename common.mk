@@ -206,3 +206,7 @@ PRODUCT_BOOT_JARS += \
     org.dirtyunicorns.utils
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
+
+# ZephyrOS Maintainers list
+PRODUCT_COPY_FILES += \
+    vendor/zos/Maintainers.txt:system/etc/Maintainers.txt
