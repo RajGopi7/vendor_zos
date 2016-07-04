@@ -79,6 +79,12 @@ PRODUCT_COPY_FILES += \
    vendor/zos/prebuilt/common/etc/init.d/99SuperSUDaemon:system/etc/init.d/99SuperSUDaemon
 endif
 
+# Backup Tool
+PRODUCT_COPY_FILES += \
+vendor/zos/prebuilt/common/bin/backuptool.sh:install/bin/backuptool.sh \
+vendor/zos/prebuilt/common/bin/backuptool.functions:install/bin/backuptool.functions \
+vendor/zos/prebuilt/common/bin/50-base.sh:system/addon.d/50-base.sh 
+
 # Enable SIP+VoIP on all targets
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.sip.voip.xml:system/etc/permissions/android.software.sip.voip.xml
@@ -199,3 +205,4 @@ PRODUCT_BOOT_JARS += \
     org.dirtyunicorns.utils
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
+
