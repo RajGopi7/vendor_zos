@@ -50,15 +50,6 @@ PRODUCT_COPY_FILES += \
    vendor/zos/prebuilt/common/media/$(TARGET_BOOTANIMATION_NAME).zip:system/media/bootanimation.zip
 endif
 
-# Backup Tool
-PRODUCT_COPY_FILES += \
-    vendor/zos/prebuilt/common/bin/backuptool.sh:install/bin/backuptool.sh \
-    vendor/zos/prebuilt/common/bin/backuptool.functions:install/bin/backuptool.functions \
-    vendor/zos/prebuilt/common/bin/blacklist:system/addon.d/blacklist \
-    vendor/zos/prebuilt/common/bin/whitelist:system/addon.d/whitelist \
-    vendor/zos/prebuilt/common/addon.d/71-layers.sh:system/addon.d/71-layers.sh
-
-
 # Include LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/zos/overlay/dictionaries
 
