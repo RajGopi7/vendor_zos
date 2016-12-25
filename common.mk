@@ -188,6 +188,7 @@ $(call inherit-product-if-exists, vendor/extra/product.mk)
 PRODUCT_PACKAGES += \
 	messaging \
         LiveWallpapersPicker \
+        WallpaperPicker \
         Music
 
 # Squisher Location
