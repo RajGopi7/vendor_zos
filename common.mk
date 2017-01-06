@@ -216,3 +216,6 @@ PRODUCT_PACKAGES += \
 # ZephyrOS Maintainers list
 PRODUCT_COPY_FILES += \
     vendor/zos/Maintainers.txt:system/etc/Maintainers.txt
+
+# Compile libhwui in performance mode
+HWUI_COMPILE_FOR_PERF := true
