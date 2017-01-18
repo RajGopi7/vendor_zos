@@ -15,6 +15,7 @@ Moto E (condor): StarkDroid/Vatsal Koradia
 =====
 NEXUS
 =====
+Nexus 4 (mako): Nitin1438
 
 =======
 ONEPLUS
