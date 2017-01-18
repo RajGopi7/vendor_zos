@@ -11,6 +11,7 @@ Zephyr to your respective devices.
 MOTOROLA
 ========
 Moto E (condor): StarkDroid/Vatsal Koradia
+Moto X 2014 (victara): Gabriel Freire
 
 =====
 NEXUS
