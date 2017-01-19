@@ -12,6 +12,7 @@ MOTOROLA
 ========
 Moto E (condor): StarkDroid/Vatsal Koradia
 Moto X 2014 (victara): Gabriel Freire
+Moto G4 Play (harpia): Subhrajyoti Sen
 
 =====
 NEXUS
