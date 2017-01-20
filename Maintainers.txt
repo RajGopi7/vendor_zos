@@ -13,6 +13,7 @@ MOTOROLA
 Moto E (condor): StarkDroid/Vatsal Koradia
 Moto X 2014 (victara): Gabriel Freire
 Moto G4 Play (harpia): Subhrajyoti Sen
+Moto G3 (osprey): ishubhamsingh
 
 =====
 NEXUS
@@ -22,7 +23,7 @@ Nexus 4 (mako): Nitin1438
 =======
 ONEPLUS
 =======
-
+OnePlus One (bacon): Kaushik V (KV)
 
 ==
 LG
