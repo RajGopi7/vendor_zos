@@ -23,7 +23,8 @@ Nexus 4 (mako): Nitin1438
 =======
 ONEPLUS
 =======
-OnePlus One (bacon): Kaushik V (KV)
+OnePlus One (bacon)       : Kaushik V (KV)
+OnePlus 3/3T (oneplus3)   : RajGopi
 
 ==
 LG
